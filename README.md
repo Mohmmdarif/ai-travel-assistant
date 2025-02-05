@@ -30,9 +30,13 @@ This project integrates **GraphQL** for country data retrieval and an **AI Chatb
 ### **📥 Clone Repository**
 
 ```sh
-git clone https://github.com/your-username/ai-travel-assistant.git
+git clone https://github.com/Mohmmdarif/ai-travel-assistant.git
 cd ai-travel-assistant
+
+npm install
 ```
+
+To run this project you must be adding .env value and rename from .env.example file to .env file. and then complete the value of each variable.
 
 ### **🚀 Run the Application**
 
@@ -42,12 +46,18 @@ npm run dev
 
 ### **🛠️ Technical Decisions & Architecture**
 
-- **Frontend: React.js + Tailwind CSS**
+- **Frontend: React.js + Tailwind CSS + Typescript**
 - **State Management: React Hooks (useState, useEffect)**
 - **API: GraphQL (Apollo Client)**
 - **AI Assistant: NVIDIA NIM API**
 - **Routing: React Router**
 - **Temporary CORS access using cors-anywhere for AI Chat CORS 'https://cors-anywhere.herokuapp.com/corsdemo' make a request for temporary access to activate CORS and start to chatting with AI**
+
+### **Demo Project**
+
+![Demo](https://github.com/Mohmmdarif/ai-travel-assistant/tree/main/src/assets/gif/video_1.gif)
+
+![Demo](https://github.com/Mohmmdarif/ai-travel-assistant/tree/main/src/assets/gif/video_2.gif)
 
 ---
 
