@@ -57,7 +57,7 @@ npm run dev
 
 ![Demo](https://github.com/Mohmmdarif/ai-travel-assistant/blob/main/src/assets/gif/video_1.gif?raw=true)
 
-![Demo](https://github.com/Mohmmdarif/ai-travel-assistant/blob/main/src/assets/gif/video_1.gif?raw=true)
+![Demo](https://github.com/Mohmmdarif/ai-travel-assistant/blob/main/src/assets/gif/video_2.gif?raw=true)
 
 ---
 
