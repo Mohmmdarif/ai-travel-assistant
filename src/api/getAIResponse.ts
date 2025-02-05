@@ -23,7 +23,6 @@ export const getAIResponse = async (message: string) => {
           presence_penalty: 0,
           max_tokens: 1024,
           stream: false,
-          stop: ["\n", "###"],
         }),
       }
     );
